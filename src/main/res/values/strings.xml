@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Mountain Informer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="my_account">Moje konto</string>
+    <string name="info">O aplikacji</string>
+    <string name="language">Język</string>
+    <string name="CZ">Republika Czeska</string>
+    <string name="HELP">Pomoc</string>
+    <string name="SK">Słowacja</string>
+    <string name="PL">Polska</string>
+    <string name="ToastMoreInfoHelp">Klikając w flagę otrzymasz  więcej informacji na temat ratunku przez slużby z danego kraju</string>
+    <string name="send">Wyślij SMS</string>
+    <string name="new_sms">NOWY SMS</string>
+    <string name="cancel">Anuluj</string>
+    <string name="moreInfoPL">W Polsce na fachową pomoc ratowników górskich możemy śmiało liczyć. Służby tego rodzaju  są bardzo dobrze rozwinięte, działają sprawnie i chyba każdy z turystów ma świadomość ich obecności.
+Ratownicy pełnią dyżury przy stacjach narciarskich, schroniskach górskich i  miejscach newralgicznych pod względem ruchu turystycznego.  Dysponują nowoczesnym sprzętem, zapleczem logistycznym  i ogromnym doświadczeniem zawodowym.
+\n\n
+TOPR – Tatrzańskie Ochotnicze Pogotowie Ratunkowe\n
+http://www.topr.pl/ - na stronie znajdziemy wiele ciekawych informacji. Aktualny stopień zagrożenia lawinowego, prognoza pogody, czy kronika z aktualnych akacji ratunkowych to tylko przykładowe z nich.
+\n\n
+GOPR – Górskie Ochotnicze Pogotowie Ratunkowe\n
+Obecnie składa się z  7 grup regionalnych. Dyżurki GOPR znajdują się również  przy schroniskach górskich w Tatrach Zachodnich (na hali Ornak, na Polanie Chochołowskiej)
+\n
+http://www.gopr.pl/ - na stronie znajdziemy między innymi prognozę pogody, poradnik turystyczny i inne informacje a propos sytuacji w górach.
+\n\n
+W Polsce obowiązuje uniwersalny numer ratunkowy  : 601 100 300/</string>
+
+    <string name="moreInfoSK">HZS - Horská Záchranná Služba\n\n
+Górskie pogotowie ratunkowe w Slowacji ma się bardzo dobrze. Zadania tej organizacji są szersze niż polskiego GOPR-u czy TOPR-u. Poza ratownictwem zajmuje się utrzymaniem szlaków i przewodnictwem górskim. HZS słynie przede wszystkim z ekspertów  w dziedzinie bezpieczeństwa lawinowego.
+\n
+http://www.hzs.sk/ - strona często aktualizowana i na bieżąco uzupełniana.  Możemy znaleźć tu bardzo dobre komunikaty pogodowe, dokładną ocenę zagrożenia lawinowego z podziałem na poszczególne pasma górskie i przepisy dotyczące ruchu turystycznego na Słowacji.
+\n
+Numer alarmowy na Słowacji  to : 18 300\n
+POMOC JEST PŁATNA !\n
+Należy posiadać wykupione ubezpieczenie turystyczne.</string>
+
+    <string name="moreInfoCZ">HSCR – Horska Sluzba Ceskiej Republiki\n\n
+Po rozpadzie Czechosłowacji organizacja odseparowała się od słowackiej odpowiedniczki i od tej pory funkcjonuje samodzielnie. Swoim działaniem obejmuje tylko  mały, beskidzki fragment Karpat, zaś większe zainteresowanie służby tej przypada na Sudety.
+\n
+http://www.hscr.cz/ - poza standardowymi informacjami, w ramach ciekawostek znajdziemy tam cennik akcji górskich, w Euro :) !
+\n
+Górski numer alarmowy w Czechach to:   +420 1210\n
+POMOC JEST PŁATNA !\n
+Należy posiadać wykupione ubezpieczenie turystyczne.</string>
+
+    <string name="moreInfoHELP">112 to numer alarmowy, bezpłatny i dostępny na terenie całej Unii Europejskiej zarówno z telefonów stacjonarnych, jak i komórkowych. Numer alarmowy 112 można wybrać w telefonie nieposiadającym karty SIM.
+Wprowadzenie numeru alarmowego 112 nie wyłączyło pozostałych numerów alarmowych do służb ratunkowych:\n
+997 - Policja,\n
+998 - Straż Pożarna,\n
+999 - Ratownictwo Medyczne.\n
+\n
+Pozostałe numery alarmowe funkcjonujące w Polsce:
+\n
+987 - centrum zarządzania kryzysowego
+\n
+991 - pogotowie energetyczne
+\n
+992 - pogotowie gazowe
+\n
+993 - pogotowie ciepłownicze
+\n
+994 - pogotowie wodno-kanalizacyjne
+\n
+995 - Komenda Główna Policji – system Child Alert
+\n
+996 - Centrum Antyterrorystyczne
+\n
+986 - straż miejska
+\n
+19 115 - Miejskie Centrum Kontaktu (dla Miasta Stołecznego Warszawy)
+\n
+116 000 - numer interwencyjny w sprawie zaginionych dzieci (Fundacja ITAKA)
+\n
+116 111 - telefon zaufania dla dzieci i młodzieży (Fundacja Dajemy Dzieciom Siłę)
+\n
+116 123  - Kryzysowy Telefon Zaufania (Instytut Psychologii Zdrowia)
+\n
+601 100 100 - numer ratunkowy nad wodą (MOPR i WOPR)
+\n
+601 100 300 - numer ratunkowy w górach (GOPR i TOPR)
+\n
+800 702 222 - Centrum Wsparcia dla osób w stanie kryzysu psychicznego (Fundacja ITAKA)
+\n
+22 668 70 00 - Niebieska Linia, ogólnopolski telefon dla ofiar przemocy w rodzinie</string>
+    <string name="ending">Czy napewno chcesz zakończyć działanie aplikacji?</string>
+    <string name="deleted_person_toast">Number fo Entry Deleted Successfully:</string>
+    <string name="name">Imię</string>
+    <string name="surname">Nazwisko</string>
+    <string name="number">Numer telefonu</string>
+    <string name="switchAddSMSstart">Wysłyłać SMS po rozpoczeciu wędrówki</string>
+    <string name="switchAddSMSend">Wysłyłać SMS po zakończeniu wędrówki</string>
+    <string name="switchAddSMShelp">Wysłyłać SMS z prośbą o pomoc</string>
+    <string name="save">Zapisz</string>
+    <string name="SAVE">ZAPISZ</string>
+    <string name="ADD">DODAJ</string>
+    <string name="button_correct">Ok, poprawię</string>
+    <string name="name_missing_alert">Nie podano imienia</string>
+    <string name="surname_missing_alert">Nie podano nazwiska</string>
+    <string name="number_missing_alert">Nie podano numeru telefonu</string>
+    <string name="number_error_alert">Numer telefonu jest zbyt dlugi. Proszę podać nie więcej niż 6 cyfr</string>
+    <string name="add_success_alert">Poprawnie dodano nową osobę.</string>
+    <string name="add_error_alert">Coś poszlo nie tak, nie udało się zapisać osoby w bazie danych</string>
+    <string name="button_cancle">Zamknij</string>
+    <string name="button_OK">OK</string>
+    <string name="add_info">Prosze o podanie danych ososbowych Twojej zaufanej, bliskiej osoby. Będzie ona mogła zostać informowana, poprzez wiadomosci SMS, o przebiegu Twojej wedrówki</string>
+    <string name="data_missing_alert">Nie podano jeszcze daty ukończenia wędrówki</string>
+    <string name="time_missing_alert">Nie podano jeszcze czasu ukończenia wędrówki</string>
+    <string name="sms_start_text">SMS start</string>
+    <string name="sms_end_text">SMS END</string>
+    <string name="sms_help_text">SMS HELP</string>
+    <string name="sms_successful_alert">SMS został poprawnie wysłany</string>
+    <string name="sms_error_alert">Wysyłanie SMS nie powiodło się. Spróbuj ponownie</string>
+    <string name="list_empty_error">Lista osób zaufanych jest pusta. najpierw zdefiniuj odbiorców SMS</string>
+</resources>
